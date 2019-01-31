@@ -16,6 +16,7 @@ public class Potencia {
     n=sc.nextInt();
     int resultado= (int)Math.pow(base, n);
     System.out.println(base+" elevado a la "+n+ " es igual a... "+resultado  );
+    System.out.println("este es el segundo cambio");
     }
 }
 
